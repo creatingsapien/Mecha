@@ -2,7 +2,7 @@ url: https://creatingsapien.github.io
 baseurl: ""
 
 # Site settings
-title: Mecha - rebuild
+title: Mecha Project - Rebuild Robotics
 email: gunnar@austincapitaldata.com
 description: "rebuiding an indistrial workhorse bot"
 
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Denis Vrdoljak
+- name: Antonio Garica
   pic: 2
-  position: Instructor at-large
+  position: Robot Whisperer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Mysterious contributor
+- name: Joeseph Ngo
   pic: 3
-  position: Fulfillment Master
+  position: Robo-Doc
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Mysterious contributor
+  pic: 4
+  position: Master Architect
   social:
     - title: twitter
       url: #
